@@ -65,6 +65,5 @@
 
 ---
 
-### 🌐 Find me
-🌚🍷  
+### 🌐 Find me  
 🔗 [github.com/NimaHosseinzadeh](https://github.com/NimaHosseinzadeh)
