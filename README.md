@@ -7,7 +7,6 @@
 - 🌱 Learning **Git, GitHub, JavaScript, Linux, and more**, while improving my **English (A1 level, daily review!)**
 - 💬 Ask me about **HTML, CSS, Git, WordPress, or Linux server setup**
 - 🧠 Interests: **Building tools, tunneling & networking, CMS & automation**
-- 💖 Dream: **To move to the USA and live a meaningful life with someone I love**
 - ⚡ Fun fact: I love sci-fi movies like *Paul* and *Independence Day*
 
 ---
